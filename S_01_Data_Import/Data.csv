@@ -1,0 +1,13 @@
+Deployment location,Age of asset,Annual cost of maintenance,Extension plan
+New York,18,123000,yes
+Boston,11,80000,no
+Philadelphia,12,82000,yes
+New York,15,100000,yes
+Boston,16,120000,no
+Philadelphia,14,,no
+New York,,98000,yes
+Boston,19,150000,no
+Philadelphia,20,145000,yes
+New York,15,,yes
+Boston,20,155000,no
+Philadelphia,,172000,no
